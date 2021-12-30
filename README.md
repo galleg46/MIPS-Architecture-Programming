@@ -19,7 +19,7 @@ even values. Then it will calculate the average, then print the sum, count, and 
 This program is a rudimentary ordering system. The user will be prompted for a number greater than zero to create an array of double precision. It will then 
 read in prices greater than zero to fill the array. It will then print the sum of all the numbers in the array. (Not fully implemented)
 
-## Program 6
+## Program 5
 This program will ask the user to specify the dimensions of a matrix, it then dynamically allocates it and reads double precision numbers to fill it. It will 
 then print out the matrix to the console in table format. Then the program will create a new matrix containing the transpose of the matrix to the console in 
 table format. Finally, the user will be prompted to enter a valid row and column index of the transposed array, and a submatrix excluding the row and column 

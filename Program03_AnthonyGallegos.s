@@ -96,7 +96,7 @@ main:
     lw $t3, 12($sp)         # load the total number of even numbers off the stack
     addi $sp, $sp, 16       # deallocate space for arguments IN and Out
 
-    li $v0, 4               # print string "Sum of even values:
+    li $v0, 4               # print string "Sum of even values: "
     la $a0, sum_p
     syscall
 
